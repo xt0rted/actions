@@ -10,7 +10,7 @@ Action types:
 
 | | Name | Description
 -- | -- | --
-🧹 | [dotnet-format](https://github.com/xt0rted/dotnet-format-problem-matcher) | A wrapper around [dotnet-format](https://github.com/dotnet/format) used to lint and fix violations
+🧹 | [dotnet-format](https://github.com/xt0rted/dotnet-format) | A wrapper around [dotnet-format](https://github.com/dotnet/format) used to lint and fix violations
 #️⃣ | [dotnet-format-problem-matcher](https://github.com/xt0rted/dotnet-format-problem-matcher) | A problem matcher to highlight [dotnet-format](https://github.com/dotnet/format) errors in the build log and create annotations
 🧰| [dotnet-tool-restore](https://github.com/xt0rted/dotnet-tool-restore) | Restores dotnet local tools saved in the `.config/dotnet-tools.json` file
 
