@@ -36,6 +36,12 @@ Name | Description
 -- | --
 [problem-matcher](https://github.com/xt0rted/problem-matcher) | A template action for quickly setting up problem matchers
 
+## Samples
+
+Name | Description
+-- | --
+[actions-cake-demo](https://github.com/xt0rted/actions-cake-demo) | Demo project using GitHub Actions and Cake to build & deploy a .NET Core website to Azure App Services
+
 ## NPM Packages
 
 Name | Description
