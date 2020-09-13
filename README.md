@@ -49,3 +49,9 @@ Name | Description
 -- | --
 [github-actions-problem-matcher-typings](https://github.com/xt0rted/github-actions-problem-matcher-typings) | TypeScript typings for the Github Actions problem matcher file format
 [stylelint-actions-formatters](https://github.com/xt0rted/stylelint-actions-formatters) | Stylelint report formatters that emit fully qualified file paths so annotations can be created with the problem matcher
+
+## Miscellaneous
+
+Name | Description
+-- | --
+[annotation-previewer](https://github.com/xt0rted/annotation-previewer) ([view](https://xt0rted.github.io/annotation-previewer/)) | A page to preview annotation commands without having to run a workflow
