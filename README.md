@@ -26,6 +26,7 @@
 - [block-autosquash-commits-action](https://github.com/xt0rted/block-autosquash-commits-action) - Prevent merging pull requests that have commit messages starting with `fixup!` or `squash!`.
 - [markdownlint-problem-matcher](https://github.com/xt0rted/markdownlint-problem-matcher) - A problem matcher to highlight [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) errors in the build log and create annotations.
 - [pull-request-comment-branch](https://github.com/xt0rted/pull-request-comment-branch) - Gets the branch name and sha for pull request comments so you can act on that branch instead of the default branch.
+- [secrets-sync](https://github.com/xt0rted/secrets-sync) - A GitHub Action to sync secrets across multiple repositories
 - [slash-command-action](https://github.com/xt0rted/slash-command-action) - Check comments for `/commands` with optional arguments and pass them to other steps in the workflow.
 
 ## Repository Templates
@@ -33,6 +34,7 @@
 [Repository templates](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to make getting started with actions easier.
 
 - [problem-matcher](https://github.com/xt0rted/problem-matcher) - A template action for quickly setting up problem matchers.
+- [secrets-sync-template](https://github.com/xt0rted/secrets-sync-template) - Template to quickly get setup using [secrets-sync](https://github.com/xt0rted/secrets-sync).
 
 ## Samples
 
