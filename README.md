@@ -7,6 +7,7 @@
 - [Frontend](#frontend)
 - [Tools](#tools)
 - [Repository Templates](#repository-templates)
+- [Workflows](#workflows)
 - [Samples](#samples)
 - [NPM Packages](#npm-packages)
 - [Miscellaneous](#miscellaneous)
@@ -35,6 +36,10 @@
 
 - [problem-matcher](https://github.com/xt0rted/problem-matcher) - A template action for quickly setting up problem matchers.
 - [secrets-sync-template](https://github.com/xt0rted/secrets-sync-template) - Template to quickly get setup using [secrets-sync](https://github.com/xt0rted/secrets-sync).
+
+## Workflows
+
+- [Auto-merge Dependabot PRs](https://gist.github.com/xt0rted/46475099dc0a70ba63e16e3177407872) - An example workflow that can be used to auto-merge Dependabot PRs.
 
 ## Samples
 
