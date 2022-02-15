@@ -47,6 +47,7 @@
 
 ## NPM Packages
 
+- [@xt0rted/actions-toolkit](https://github.com/xt0rted/actions-toolkit) - Helper functions, scripts, and Typescript types for working with GitHub Actions.
 - [github-actions-problem-matcher-typings](https://github.com/xt0rted/github-actions-problem-matcher-typings) - TypeScript typings for the GitHub Actions problem matcher file format.
 - [stylelint-actions-formatters](https://github.com/xt0rted/stylelint-actions-formatters) - Stylelint report formatters that emit fully qualified file paths so annotations can be created with the problem matcher.
 
