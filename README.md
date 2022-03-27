@@ -3,7 +3,7 @@
 
 ## Contents
 
-- [dotnet](#dotnet)
+- [dotnet](#net)
 - [Frontend](#frontend)
 - [Tools](#tools)
 - [Repository Templates](#repository-templates)
