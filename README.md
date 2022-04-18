@@ -41,6 +41,7 @@
 ## Workflows
 
 - [Auto-merge Dependabot PRs](https://gist.github.com/xt0rted/46475099dc0a70ba63e16e3177407872) - An example workflow that can be used to auto-merge Dependabot PRs.
+- [Update dotnet local tools](https://github.com/xt0rted/dotnet-tool-update-test) - An example two part workflow showing how you can keep dotnet local tools up to date.
 
 ## Samples
 
